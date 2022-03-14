@@ -56,8 +56,8 @@ I think red tape does block digital empowerment often. Here at Del Norte we are 
 
 ## Code Snippets
 
-## [Replit](https://replit.com/@TimL1n/TimTestTime-1#main.py)
-## [Github Code]()
+## [Replit Runtime](https://replit.com/@TimL1n/TimTestTime-1#main.py)
+## [Github Code](https://github.com/TimL1n/TimTestTime/blob/main/main.py)
 
 # Create Task Project
 
