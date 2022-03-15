@@ -1,4 +1,4 @@
-{% extend navigation.html %}
+{% include navigation.html %}
 
 # Create Task Project
 
