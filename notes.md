@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ## Unit 5
 ## 5.1 Beneficial and Harmful Effects
 * Accelerometer:
