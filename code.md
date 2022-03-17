@@ -8,6 +8,9 @@
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@TimL1n/TimTestTime?embed=true"></iframe>
 
+## Code Snippets
+
+Static and Animated Patterns
 ```html
     # print ship with colors and leading spaces
     def ship_print(position):
