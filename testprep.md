@@ -56,7 +56,7 @@ A way to help empower others is to teach. Take the info you’ve learned online 
 
 I think red tape does block digital empowerment often. Here at Del Norte we are pretty well off, the only red tape blocking us is the internet which sometimes blocks sites we could use for learning more about coding. For the most part it isn’t that bad though. However in other places, there are likely lots of things preventing digital empowerment. All policies have to go through bureaucracy and so it may take time before other people are able to digitally empower themselves due to restrictions and blocks placed in front of them.
 
-5.3 Computing Bias
+## 5.3 Computing Bias
 * Netflix
   * Explicit Data 
     * Name, address
@@ -75,7 +75,7 @@ I think red tape does block digital empowerment often. Here at Del Norte we are 
 ### Actions:
 The owner knows it is unintentional and is just joking around with how it won't follow him. This is obvious because they both laugh and smile throughout the video. This likely occured because the facecam software probably uses a facial recognition software that maybe detects faces depending on contrast of skin to facial features like eyes, noes, mouth, eyebrows maybe. Or the software recognizes faces through a database of pictures with and without faces that puts together what is similar of the faced pictures. So with more of a contrast from a white face to darker features than a darker face to more similar colored features, the white face will be recognized easier. Or the software recognizes faces through a database of pictures with and without faces that puts together what is similar of the faced pictures and the pictures are primarily lighter toned people. It technically is harmful because it makes it so people of darker skin tone can't use the feature. Luckily however, the feature doesn't seem that useful and wouldn't be used very much, making it less harmful than it would be if many people utilized it. This should for sure be corrected and can be by making the databsase include pictures of darker toned people(if they used one).
 
-5.4 Crowdsourcing
+## 5.4 Crowdsourcing
 * Kaggle
   * Courses in visualizations, TensorFlow, AI, machine learning
   * Competitions
