@@ -49,3 +49,38 @@ Static and Animated Patterns
 
       ship()
 ```
+
+Info DB Lists
+```html
+          if ans3=="a":
+            print("\nDisplaying InfoDB List now.\n")
+            InfoDb = []
+            InfoDb.append({  
+               "FirstName": "Timothy",  
+               "LastName": "Lin",  
+               "DOB": "November 10th",  
+               "Residence": "San Diego, CA",  
+               "Email": "timothyzlin@gmail.com",  
+               "hobbies":["Eating Food","Video Games","Listening to Music"]  
+              }) 
+            def print_data(n):
+              print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
+              print("\n")
+              print(InfoDb[n]["DOB"])
+              print("\n")
+              print(InfoDb[n]["Residence"])
+              print("\n")
+              print(InfoDb[n]["Email"])
+              print("\n")
+              print("My Hobbies: ", end="") 
+              print(", ".join(InfoDb[n]["hobbies"]))
+              print()
+            print_data(0)
+            quit=input("Do you want to go back to the main menu? (yes/no) ")
+
+            if quit=="yes":
+              os.system('clear')
+              main()
+            else:
+              print("Staying put")
+```
