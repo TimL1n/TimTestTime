@@ -115,8 +115,11 @@ def main():
       Z. Exit/Quit
       """)
           ans3=input("What would you like to do? ")
+
+          #InfoDB List
           if ans3=="a":
             print("\nDisplaying InfoDB List now.\n")
+            #Assign InfoDB
             InfoDb = []
             InfoDb.append({  
                "FirstName": "Timothy",  
@@ -147,7 +150,9 @@ def main():
             else:
               print("Staying put")
               
+          #InfoDB loops
           elif ans3=="b":
+            #Assign InfoDB
             InfoDb = []
             InfoDb.append({  
                "FirstName": "Timothy",  
@@ -169,6 +174,7 @@ def main():
               print("My Hobbies: ", end="") 
               print(", ".join(InfoDb[n]["hobbies"]))
               print()
+            #Loop print function
             def for_loop():
               for n in range(len(InfoDb)):
                 print_data(n)
@@ -201,7 +207,9 @@ def main():
               main()
             else:
               print("Staying put")
+          #Fibonacci
           elif ans3=="c":
+            #Generate Fibonacci Sequence
             def fibo_recur(n):
 
              if n <= 1:
