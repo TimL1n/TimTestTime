@@ -119,12 +119,12 @@ def main():
             print("\nDisplaying InfoDB List now.\n")
             InfoDb = []
             InfoDb.append({  
-               "FirstName": "Colin",  
-               "LastName": "Howard",  
-               "DOB": "March 14th",  
-               "Residence": "Poway, CA",  
-               "Email": "colinh36220@stu.powayusd.com",  
-               "hobbies":["Cooking","Video Games","Playing Music"]  
+               "FirstName": "Timothy",  
+               "LastName": "Lin",  
+               "DOB": "November 10th",  
+               "Residence": "San Diego, CA",  
+               "Email": "timothyzlin@gmail.com",  
+               "hobbies":["Eating Food","Video Games","Listening to Music"]  
               }) 
             def print_data(n):
               print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
@@ -150,12 +150,12 @@ def main():
           elif ans3=="b":
             InfoDb = []
             InfoDb.append({  
-               "FirstName": "Colin",  
-               "LastName": "Howard",  
-               "DOB": "March 14th",  
-               "Residence": "Poway",  
-               "Email": "colinh36220@stu.powayusd.com",  
-               "hobbies":["Cooking","Video Games","Playing Music"]  
+               "FirstName": "Timothy",  
+               "LastName": "Lin",  
+               "DOB": "November 10th",  
+               "Residence": "San Diego, CA",  
+               "Email": "timothyzlin@gmail.com",  
+               "hobbies":["Eating Food","Video Games","Listening to Music"]  
               }) 
             def print_data(n):
               print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])
