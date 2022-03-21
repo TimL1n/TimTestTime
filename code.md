@@ -46,7 +46,7 @@ Defining a list and printing it with Info DB.
             else:
               print("Staying put")
 ```
-## InfoDB Loops
+### InfoDB Loops
 ```html
 InfoDb = []
             InfoDb.append({  
@@ -96,7 +96,7 @@ InfoDb = []
               print("----------------------------------------")
             program()
 ```
-## Fibonacci
+### Fibonacci
 ```html
             def fibo_recur(n):
 
