@@ -2,8 +2,6 @@
 
 ## Test Prep
 
-{% include navigation.html %}
-
 ## 5.1 Beneficial and Harmful Effects
 * Accelerometer:
   * Automobile industry drove price down
