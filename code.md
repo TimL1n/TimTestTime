@@ -10,6 +10,60 @@
 
 # Code Snippets
 
+## Week 2
+### Factorial
+```html
+class factorial:
+  def __call__(self, num):
+    ans = 1
+    for i in range(1, num + 1):
+      ans = ans * i
+    return ans
+
+factorial = factorial()
+number = input("Number to find factorial of: ")
+number = int(number)
+print("Factorial of ", number, "is",   factorial(number))
+```
+### Least Common Multiplier
+```html
+def lcm(a,b):
+  if (a > b):
+      maximum = a
+  else:
+      maximum = b
+  while (True):
+      if (maximum % a == 0 and maximum % b == 0):
+          break
+      maximum = maximum + 1
+  return maximum
+
+def lcm_run():
+  print("The LCM of 47, 13 is", lcm(47,13))
+  print("The LCM of 78, 25 is",lcm(78,25))
+```
+### Palindrome
+```html
+class Palindrome():
+    def __init__(self):
+        self.strArr = ["A man, a plan, a canal -- Panama!", "racecar", "palindrome"]
+
+    def __call__(self):
+        for str in self.strArr:
+            original = str
+            str = str.strip()
+            str = ''.join(char for char in str if char.isalnum())
+            str = str.lower()
+
+            if str == str[::-1]:
+                print(original + " --> is a palindrome")
+            else:
+                print(original + " --> is not a palindrome")
+
+
+P = Palindrome()
+P()
+```
 ## Week 1
 ### Info DB Lists
 Defining a list and printing it with Info DB.
