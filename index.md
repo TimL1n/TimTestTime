@@ -2,6 +2,9 @@
 
 ### [Individual Repository](https://github.com/TimL1n/TimTestTime)
 
+## Week 2
+### [Ticket](https://github.com/TimL1n/TimTestTime/issues/3)
+
 ## Week 1
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/2)
 
