@@ -5,7 +5,7 @@
 
 
 ## Algorithmic Final
-### [Ticket](https://github.com/TimL1n/TimTestTime/issues/4)
+### [Ticket](https://github.com/TimL1n/TimTestTime/issues/5)
 
 ## Week 2
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/3)
