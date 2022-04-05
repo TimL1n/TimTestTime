@@ -3,6 +3,10 @@
 
 ### [Individual Repository](https://github.com/TimL1n/TimTestTime)
 
+
+## Algorithmic Final
+### [Ticket](https://github.com/TimL1n/TimTestTime/issues/4)
+
 ## Week 2
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/3)
 
