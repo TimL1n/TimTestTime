@@ -3,6 +3,8 @@
 
 ### [Individual Repository](https://github.com/TimL1n/TimTestTime)
 
+## Accounts and Logins
+### [Ticket](https://github.com/TimL1n/TimTestTime/issues/6)
 
 ## Algorithmic Final
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/5)
