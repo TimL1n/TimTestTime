@@ -3,6 +3,7 @@
 ## Test Prep
 
 # Finals Quiz 1 45/50
+
 | Question | Correction |
 | -------- | ---------- |
 | 9 | The new system would not be able to provide a human representative for any call because outside of business hours, no one could respond. They couldn't select the incorrect department because they literally can not. |
@@ -12,6 +13,7 @@
 | 50 | Lossless transformation can be seen in creating a negative of an image, not a greyscale. |
 
 # Finals Quiz 2 46/50
+
 | Question | Correction |
 | -------- | ---------- |
 | 22 | IPV 6 allows more devices to be connected to the internet, not faster packet routing |
