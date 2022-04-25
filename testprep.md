@@ -6,16 +6,23 @@
 
 
 Question 9 : The new system would not be able to provide a human representative for any call because outside of business hours, no one could respond. They couldn't select the incorrect department because they literally can not. 
+
 Question 23 : Cookies stored on a web browser is more likely a compromise to personal privacy then your ip because your ip doesn't contain any extra private information than your pc address. 
+
 Question 38 : It would be option 2 and 3 because 3 you know the phone number of the criminal and which phone numbers called. 
+
 Question 46 : Open protocols are used for standardizing data transmissions between different devices, not equal bandwidth. 
+
 Question 50 : Lossless transformation can be seen in creating a negative of an image, not a greyscale. 
 
 # Finals Quiz 2 46/50
 
 Question 22 : IPV 6 allows more devices to be connected to the internet, not faster packet routing 
+
 Question 35 : Adding the two positive integers might result in an overflow error because the sum that is created is greater than what can be displayed, not approximation errors. 
+
 Question 42 : Cloud computing enhances collaboration and introduces new data security concerns. It does not eliminate the need for redundancy at all.
+
 Question 50 : It would be options 1, 2, and 3 because the average increase in total points per student as a result of the score replacement policy can also be determined by calculating the differences between each student score before and after the replacement policy was applied. 
 
 ## 5.4 Crowdsourcing
