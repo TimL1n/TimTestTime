@@ -2,6 +2,12 @@
 
 ## Test Prep
 
+# Finals Quiz 3 48/50
+
+Question 43: People with premium accounts are less likely to have targeted ads show up on their feed because their paid account allows them to not see advertisements.
+
+Question 50: The variable second, while initially assigned the value 200, is later assigned the value of temp, which is 100. The variable first is initially assigned the value 100, and then later assigned the value of second, which at that point in the code segment is also 100.
+
 # Finals Quiz 1 45/50
 
 
