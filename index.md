@@ -3,8 +3,13 @@
 
 ### [Individual Repository](https://github.com/TimL1n/TimTestTime)
 
+## Quiz 3
+### [Ticket](https://github.com/TimL1n/TimTestTime/issues/8)
+[Corrections](https://timl1n.github.io/TimTestTime/qcorrect)
+
 ## Quiz 1 and Quiz 2
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/8)
+[Corrections](https://timl1n.github.io/TimTestTime/qcorrect)
 
 ## Accounts and Logins
 ### [Ticket](https://github.com/TimL1n/TimTestTime/issues/6)
