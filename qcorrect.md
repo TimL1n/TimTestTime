@@ -1,8 +1,7 @@
 {% include navigation.html %}
 
-![image](https://user-images.githubusercontent.com/89238783/166563212-6de4480d-fce4-4e05-867c-eb65756be3dd.png)
-
 # Finals Quiz 3 48/50
+![image](https://user-images.githubusercontent.com/89238783/166563212-6de4480d-fce4-4e05-867c-eb65756be3dd.png)
 
 Question 43: People with premium accounts are less likely to have targeted ads show up on their feed because their paid account allows them to not see advertisements.
 
@@ -17,6 +16,7 @@ Question 50: The variable second, while initially assigned the value 200, is lat
 This week I got 48/50 on my quiz. The review I am doing really seems to be working and I am very confident for the AP test. I will still make sure to review terms and different questions that will be on the test, but I am feeling good.
 
 # Finals Quiz 1 45/50
+![image](https://user-images.githubusercontent.com/89238783/166563390-bef9c1d0-a777-4ac2-841d-5158fdba0603.png)
 
 Question 9 : The new system would not be able to provide a human representative for any call because outside of business hours, no one could respond. They couldn't select the incorrect department because they literally can not. 
 
@@ -29,6 +29,7 @@ Question 46 : Open protocols are used for standardizing data transmissions betwe
 Question 50 : Lossless transformation can be seen in creating a negative of an image, not a greyscale. 
 
 # Finals Quiz 2 46/50
+![image](https://user-images.githubusercontent.com/89238783/166563342-adf3c051-1296-4515-987a-8e62cdd378fe.png)
 
 Question 22 : IPV 6 allows more devices to be connected to the internet, not faster packet routing 
 
