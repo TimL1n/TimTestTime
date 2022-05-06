@@ -1,5 +1,23 @@
 {% include navigation.html %}
 
+# Finals Quiz 3 47/50
+![image](https://user-images.githubusercontent.com/89238783/167210975-d048eadf-90aa-42ac-bf5e-a8541ad41a94.png)
+
+Question 5: An overflow error would occur because with only 3 bits to represent the integer, the decimal value could only go up to 7. Trying to represent 5+3 would be 8 and would not work, causing an overflow error.
+
+Question 22: The running speed of the game could be improved by using a proccess to find approximate solutions. Although making the game multiplayer would make the game run faster, that would defeat the purpose of the game.
+
+Question 43: The internet iteslf is not designed to incorporate encryption protocols and is not secure by itself. The only true statement is that internet is designed to scale to increasing user numbers.
+
+# Week 3 Study Plan
+
+- Continue to review Collegeboard videos
+- Continue to review Khan Academy videos
+- Go over missed quiz questions and make sure I understand why I got them wrong and what the correct answer is.
+
+### Reflection
+This week I got 47/50 on the quiz. Although I went down in score a little from last week, I still did pretty well. However now that I know that Collegeboard has gotten stricter with the CSP grading, I will continue to study hard.
+
 # Finals Quiz 3 48/50
 ![image](https://user-images.githubusercontent.com/89238783/166563212-6de4480d-fce4-4e05-867c-eb65756be3dd.png)
 
